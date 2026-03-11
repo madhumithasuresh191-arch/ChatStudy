@@ -122,9 +122,10 @@ client_socket.close()
 ~~~
 ## Output
 server
-<img width="732" height="359" alt="Screenshot 2026-03-11 085429" src="https://github.com/user-attachments/assets/94200c79-b637-4389-b31e-d195539d1463" />
+![cn ex1b server](https://github.com/user-attachments/assets/e6eabdd3-912f-444e-b10b-0d84f769d8bc)
+
 client
-<img width="694" height="321" alt="Screenshot 2026-03-11 085454" src="https://github.com/user-attachments/assets/ca6106af-01bd-45ab-a9a0-2b9be48fb138" />
+![cn ex1b client](https://github.com/user-attachments/assets/9a758683-8460-42cc-baaf-c29afa648c0b)
 
 ## Result
 Thus the study on Client Server Chat Applications has been performed
